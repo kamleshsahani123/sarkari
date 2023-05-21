@@ -1,0 +1,27 @@
+#head-title {
+    font-size: x-large;
+    text-decoration: none;
+    padding-top: 20px;
+    padding-left: 30px;
+    font-family: Georgia,"Nimbus Roman No9 L","Times New Roman",Times,serif;
+    color: #fff;
+	border:2px solid;
+	background-color:red;
+}
+	#hmenu {
+    height:55px;
+    background-color: #8c384d;
+    margin-top: -20px;
+    width: 1002px;
+	font-size:22px;
+	}
+.link1 a:visited{
+	color:white;
+}
+.link1 a:hover{
+	color:black;
+}
+
+div{
+	text-align:center;
+}
